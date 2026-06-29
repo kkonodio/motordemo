@@ -1,0 +1,13 @@
+Objects/
+*.uvgui.*
+*.uvopt
+*.uvproj.bak
+*.lst
+*.obj
+*.hex
+*.lnp
+*.build_log.htm
+*.M51
+*.i
+*.uvproj
+*.A51
